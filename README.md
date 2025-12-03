@@ -12,4 +12,5 @@ MARCH 11,2026
 4. **Detox:** No Reels/Shorts.
 ## Daily Log
 dec:2|day 1| learned a bit of django| **One day or day one. You decide**
+
 dec:3|day 2| kinda started with tinker, borrowed two cool python books, im still elevating and ill grow |
