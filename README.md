@@ -14,3 +14,9 @@ MARCH 11,2026
 dec:2|day 1| learned a bit of django| **One day or day one. You decide**
 
 dec:3|day 2| kinda started with tinker, borrowed two cool python books, im still elevating and ill grow |
+
+
+dec:4|day 3| Today was fun college was good, a pretty decent day and this logging thing im doing im finding it fun, today i did a bit python regular expressions
+, gave a nice speech for class assignment which i aced, I found hackathon like global where i can register and participate and my heart is pumping.
+I borrowed two books from library and started reading one its called python for data analysis and i completed first two chaps it was fun, I googled about data science and its really cool.I also made a daily schedule 
+for my college days ,overall a decent day and mainly all 4 protocols were completed
