@@ -20,3 +20,6 @@ dec:4|day 3| Today was fun college was good, a pretty decent day and this loggin
 , gave a nice speech for class assignment which i aced, I found hackathon like global where i can register and participate and my heart is pumping.
 I borrowed two books from library and started reading one its called python for data analysis and i completed first two chaps it was fun, I googled about data science and its really cool.I also made a daily schedule 
 for my college days ,overall a decent day and mainly all 4 protocols were completed
+
+
+dec:5|day 4| did a bit of oops and file handling, this month my schedule and targets are hectic
