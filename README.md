@@ -28,3 +28,7 @@ dec:5|day 4| did a bit of oops and file handling, this month my schedule and tar
 dec:6|day 5|I did not do anything, i felt really bad about myself cause i don't fit in at all, did all lot of self reflection asked llm's if something in my character is wrong, i got no real help.
 Thus i decided ill just keep a goal and work towards it and i eventually might meet people who have similar mindset to me.
 so thus today on dec-6|2025 i have set a really big goal that'll change my life completely in ways ill be proud 10 years later.
+
+
+dec:8|day 7|I missed to upload yesterday cause of lack of data in my pack but well day 6 and 7 complete. Honestly college life has become too stressful, tooo much work and i also have 
+global hack week from 12th, then nptel jan 19th i guess it'll all come down to time management..good luck pushkar....
