@@ -32,3 +32,8 @@ so thus today on dec-6|2025 i have set a really big goal that'll change my life 
 
 dec:8|day 7|I missed to upload yesterday cause of lack of data in my pack but well day 6 and 7 complete. Honestly college life has become too stressful, tooo much work and i also have 
 global hack week from 12th, then nptel jan 19th i guess it'll all come down to time management..good luck pushkar....
+
+dec:11| day 8|I feel i have hit many walls yesterday we had our coding club meet of adroit . my seniors told me alot of things and then i came to my senses i've wasted nearly my first sem. I did
+do on my own but it was not enough at all. I even did fail misserably at  making friends people either hate me or envy or don't bother about me at all. There are kind of groups in my first sem class and i am a 
+oddball not in any. Honestly i'll just elevate myself as these groups and me included cannot compare to my best friend in bits the amount of knowledge .I have time, everybody does so i'll just use it and grow, 
+i guess.
